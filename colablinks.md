@@ -1,0 +1,3 @@
+- [LSTM: Training and eval loops](https://colab.research.google.com/drive/136dgdjSB7RNiPjykhPYw4KFliBE-ClcG?usp=sharing)
+  - [LSTM: Graph generation](https://colab.research.google.com/drive/1wgdlCg3HCExRbcAAG3CdUzlNrbWRsbIE?usp=sharing)
+- [Prophet](https://colab.research.google.com/drive/174pnSer2vEpb6nkp5K4aB-jQGK6tTfD-?usp=sharing)
